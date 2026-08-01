@@ -66,6 +66,11 @@
 ✔ Responsive UI
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mukesh-patidar62/mukesh-patidar62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 🧠 QuizForge
 
