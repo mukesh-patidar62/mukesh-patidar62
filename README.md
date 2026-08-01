@@ -1,79 +1,151 @@
-<h1 align="center">Hi 👋, I'm Mukesh Patidar</h1>
+<div align="center">
 
-<h3 align="center">Java Backend Developer | MCA Student | Spring Boot Learner</h3>
+# Hi 👋, I'm Mukesh Patidar
 
-<p align="center">
-I am passionate about building scalable backend applications, solving real-world problems, and continuously improving my development skills.
+### 🚀 Java Backend Developer | MCA Student | Spring Boot Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;MySQL+%7C+DSA+%7C+Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=mukesh-patidar62&style=for-the-badge&color=blue" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+- 🎓 MCA Student
+- 💻 Passionate about Java Backend Development
+- 🌱 Currently learning Spring Boot, REST APIs & MySQL
+- 📚 Practicing Data Structures & Algorithms in Java
+- 🚀 Building real-world backend applications
+- 🎯 Goal: Become a Java Backend Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mukesh-patidar-77a41b24b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedi"/>
+</a>
+
+<a href="mailto:mukeshpatidar6265@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 💻 Tech Stack
 
-- 🎓 MCA Student
-- 💻 Learning Java Backend Development
-- 🌱 Currently learning Spring Boot, REST APIs & MySQL
-- 📚 Practicing Data Structures & Algorithms in Java
-- 🎯 Goal: Become a Java Backend Developer
-- ⚡ Love building real-world projects
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,idea,postman"/>
 
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 ShopEasy
-A full-stack e-commerce application built using Spring Boot and MySQL.
+## 🛒 ShopEasy — Full Stack E-Commerce
 
-### 🧠 QuizForge
-An interactive quiz application with Arrays, Strings, Aptitude, and Logical Reasoning.
+✔ Spring Boot
 
-### 🌐 Portfolio Website
-Personal developer portfolio showcasing projects and skills.
+✔ MySQL
 
----
+✔ REST APIs
 
-## 📊 GitHub Stats
+✔ Cloudinary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh-patidar62&show_icons=true&theme=tokyonight)
+✔ JWT Authentication
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-patidar62&layout=compact&theme=tokyonight)
+✔ Responsive UI
 
 ---
 
-## 🔥 GitHub Streak
+## 🧠 QuizForge
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mukesh-patidar62&theme=tokyonight)
+Interactive Quiz Platform
+
+- Arrays
+- Strings
+- Aptitude
+- Logical Reasoning
+
+Built using HTML, CSS & JavaScript.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Portfolio Website
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mukesh-patidar-77a41b24b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email: mukeshpatidar6265@gmail.com
+Personal portfolio showcasing projects, skills and achievements.
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mukesh-patidar62&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-patidar62&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mukesh-patidar62&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Mukesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukesh-patidar62&theme=tokyo-night)](https://github.com/mukesh-patidar62)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukesh-patidar62&theme=tokyonight&margin-w=10"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Building scalable backend solutions, one commit at a time."**
+
+---
+
+# ⚡ Fun Fact
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</div>
